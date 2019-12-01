@@ -78,7 +78,7 @@ input {
 
 .focus:focus {
   outline: 3px solid black;
-}  
+}
 
 
 button {
@@ -94,7 +94,7 @@ button {
   width: 200px;
 
   &:enabled {
-     @include outline-out($click-color); 
+     @include outline-out($click-color);
   }
 
   &:disabled {
@@ -110,7 +110,7 @@ button {
 #black-button {
   background-color: black;
     &:enabled {
-     @include outline-out(black); 
+     @include outline-out(black);
   }
 }
 
@@ -217,7 +217,7 @@ main {
   width: 50%;
   .survey-num {
     background-color: $background-color;
-  } 
+  }
   .survey-score {
     background-color: black;
   }
