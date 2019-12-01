@@ -27,7 +27,9 @@ InVision Prototype
 - Game Board: Next, a design is implemented and basic user flow is considered.
 
 <div style="border:1px #D3D3D3 solid; margin-bottom:20px">
+
 ![Feud prototype game board](src/images/feud_prototype_game_board.png)
+
 </div>
 
 - Here is a clickable InVision Prototype: Click on a movies from the home screen then the main logo to get back.
@@ -37,13 +39,17 @@ Splash Page
 - Before the game can start, two users much enter their names.
 
 <div style="border:1px #D3D3D3 solid; margin-bottom:20px">
+
 ![feud splash page no play](src/images/feud_splash_no-play.png)
+
 </div>
 
 - The players can not proceed to game play unless both name inputs have been filled in.
 
 <div style="border:1px #D3D3D3 solid; margin-bottom:20px">
+
 ![feud splash page play](src/images/feud_splash_play.png)
+
 </div>
 
 Round 1
@@ -54,7 +60,9 @@ Round 1
 - Players alternate guessing as indicated by the carrot and black text and must enter a guess and 'git commit' their answer. If their answer is correct, the answer and associated points will be revealed in the matching black board above and the points will be awarded to that player and added to their score on the sides of the game board.
 
 <div style="border:1px #D3D3D3 solid; margin-bottom:20px">
+
 ![feud round 1](src/images/feud_round-1.png)
+
 </div>
 
 Help Modals
@@ -74,20 +82,26 @@ Round 2
 - Round 2 play is identical to round 1. Demonstrated here is the guess input area, how it also lets the players know which player is up and that a guess must to typed into the field for a player to 'git commit' a guess.
 
 <div style="border:1px #D3D3D3 solid; margin-bottom:20px">
+
 ![feud round 2](src/images/feud_round-2.png)
+
 </div>
 
 Fast Money Round
 - Once the top three answers to the survey question have been answered, the game will move on to the third and final round, Fast Money. The rules are a bit more complicated here and a timer is introduced.
 
 <div style="border:1px #D3D3D3 solid; margin-bottom:20px">
+
 ![feud round 2](src/images/feud_fast-money-round-modal-1.png)
+
 </div>
 
 - The Fast Money board is similar to that of rounds 1 and 2, but the player turn will not change until the 30 sec timer runs out. If a player guesses any correct answers, those also will not be shown until after player 2 has played.
 
 <div style="border:1px #D3D3D3 solid; margin-bottom:20px">
+
 ![feud round 2](src/images/feud_fast-money-round-player-1.png)
+
 </div>
 
 - After player 1's timer has run out, a modal will appear prompting player 2 to get ready!
@@ -97,7 +111,9 @@ Fast Money Round
 - Player 2 is now in black and when the timer gets to 10 secs and below, it turns to pink to alert the player that their time is almost up!
 
 <div style="border:1px #D3D3D3 solid; margin-bottom:20px">
+
 ![feud round 2](src/images/feud_fast-money-round-player-2.png)
+
 </div>
 
 - After player 2's time runs out, the final scores are tallied and the winner is displayed along with the final scores and answers to the fast money round! Thanks for playing!
