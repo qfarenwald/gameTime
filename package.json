@@ -13,8 +13,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sschipke/gameTime.git",
-    "homepage": "http//sschipke.github.io/gameTime"
+    "url": "git+https://github.com/qfarenwald/gameTime.git",
+    "homepage": "http//qfarenwald.github.io/gameTime"
   },
   "author": "Turing School of Software and Design",
   "license": "MIT",
